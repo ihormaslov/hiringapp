@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "hiring-b0c9d"
+  },
+  "targets": {
+    "hiring-b0c9d": {
+      "hosting": {
+        "frontend": [
+          "hiring-b0c9d"
+        ]
+      }
+    }
   }
 }
